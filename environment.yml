@@ -1,0 +1,10 @@
+name: DS_Tutorial
+channels:
+  - defaults
+dependencies:
+  - python=3.8
+  - h5py
+  - jax=0.3.15
+  - matplotlib
+  - tqdm
+  - jupyter
