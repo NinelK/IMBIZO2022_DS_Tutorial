@@ -1,0 +1,11 @@
+name: DS_Tutorial
+channels:
+  - defaults
+dependencies:
+  - python=3.8
+  - h5py
+  - matplotlib
+  - tqdm
+  - jupyter
+  - scipy==1.6.3
+  - scikit-learn
