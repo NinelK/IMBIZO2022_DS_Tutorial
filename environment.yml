@@ -4,7 +4,9 @@ channels:
 dependencies:
   - python=3.8
   - h5py
-  - jax=0.3.15
+  - jax 0.3.15*
+  - jaxlib >=0.3.14
+  - scikit-learn
   - matplotlib
   - tqdm
   - jupyter
