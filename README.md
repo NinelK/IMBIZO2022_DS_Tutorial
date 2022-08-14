@@ -1,5 +1,6 @@
 # Tutorial on Dynamical Systems for Neuroscience
 
+Clone this repo and go INTO the IMBIZO2022_DS_Tutorial folder
 
 Linux installation:
 ```
@@ -10,6 +11,7 @@ conda env create -n DS_tutorial environment.yml
 Windows installation:
 
 ```
+conda config --add channels conda-forge
 conda env create -f environment_windows.yml
 conda activate DS_Tutorial
 set CONDA_DLL_SEARCH_MODIFICATION_ENABLE=1 
