@@ -1,5 +1,7 @@
 # Tutorial on Dynamical Systems for Neuroscience
 
+[Solutions available here](https://github.com/NinelK/IMBIZO2022_DS_tutorial_solutions)
+
 Clone this repo and go INTO the IMBIZO2022_DS_Tutorial folder
 
 Linux installation:
